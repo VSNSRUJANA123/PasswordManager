@@ -1,0 +1,53 @@
+.color1 {
+  background-color: #7683cb;
+}
+.color2 {
+  background-color: #f59e0b;
+}
+.color3 {
+  background-color: #10b981;
+}
+.color4 {
+  background-color: #f97316;
+}
+.color5 {
+  background-color: #14b8a6;
+}
+.color6 {
+  background-color: #b91c1c;
+}
+.color7 {
+  background-color: #0ea5e9;
+}
+.color8 {
+  background-color: #64748b;
+}
+.profile {
+  text-transform: capitalize;
+  width: 50px;
+  color: white;
+
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.passwordList {
+  width: 250px;
+  margin-right: 15px;
+  display: flex;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 10px;
+  align-items: center;
+}
+.delete {
+  width: 40px;
+  cursor: pointer;
+}
+.passwordList div img {
+  width: 100px;
+}
